@@ -229,6 +229,10 @@ Ce challenge est une introduction. Voici d'autres attaques JWT à connaître :
 
 <img width="724" height="383" alt="finish" src="https://github.com/user-attachments/assets/1c9fb21a-4b1f-4f92-8120-435855cb56f7" />
 
+
+<img width="1624" height="164" alt="valide" src="https://github.com/user-attachments/assets/bc694641-3319-4a7d-a2f6-d02722070e57" />
+
+
 ---
 
 ## Ressources
