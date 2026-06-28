@@ -11,7 +11,8 @@
 
 ---
 
-<img width="743" height="500" alt="biror" src="https://github.com/user-attachments/assets/eafed187-f6e2-4374-9e50-d2cb20352abb" />
+
+<img width="1540" height="780" alt="defie" src="https://github.com/user-attachments/assets/1552824e-8681-4c15-9654-7132aaf19268" />
 
 
 
@@ -32,7 +33,7 @@ Contient le type de token et l'algorithme de signature utilisé.
 {"typ":"JWT","alg":"HS256"}
 ```
 
-<img width="736" height="426" alt="burp" src="https://github.com/user-attachments/assets/19f5451f-9f98-4bd9-953a-c107cae3b646" />
+<img width="743" height="500" alt="biror" src="https://github.com/user-attachments/assets/eafed187-f6e2-4374-9e50-d2cb20352abb" />
 
 
 ### 🔹 Payload (Charge utile)
